@@ -111,7 +111,7 @@ class Dina:
         # win.blit(walkLeft[self.walkCount//3], (self.x,self.y))
         #     self.walkCount += 1
 
-    def jump(self,jumps):
+    def jump(self,jumps):git 
         if jumps >0:
             isJump = True
 
