@@ -1,2 +1,2 @@
 # angry-dina
-A Dinosaur game in game
+A Dinosaur game in python
